@@ -1,0 +1,12 @@
+Name,Age,City
+Alice,25,New York
+Bob,,Los Angeles
+Charlie,35,Chicago
+David,40,
+Emily,45,Boston
+Lakshman,18,tumkur
+Anjan,98,Banglore
+Ganesh,60,siraguppa
+Apeksha,19,shivamogga
+Ayesha,70,Madhugiri
+kushala,82,Mysore
